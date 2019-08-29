@@ -1,0 +1,15 @@
+com\bfbm\ApplicationContext.class
+com\bfbm\demo\SkirtService.class
+com\bfbm\ApplicationContextBuilder.class
+com\bfbm\loadResource\PropertiesLoaderFactory.class
+com\bfbm\annotation\BfbmScope.class
+com\bfbm\ContextBuilder.class
+com\bfbm\BeanDefinition.class
+com\bfbm\demo\ShirtService.class
+com\bfbm\ApplicationContextDirector.class
+com\bfbm\annotation\BfbmService.class
+com\bfbm\loadResource\XmlLoaderFactory.class
+com\bfbm\instance\ResourceApplicationContext.class
+com\bfbm\loadResource\ResourceFactory.class
+com\bfbm\ContextDirector.class
+com\bfbm\test\MainService.class
